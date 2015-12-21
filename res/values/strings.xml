@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RssReader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="rss_urls">
+        <item>http://onliner.by/feed</item>
+        <item>http://belta.by/rss</item>
+        <item>http://news.tut.by/rss/all.rss</item>
+        <item>https://www.archlinux.org/feeds/packages/x86_64/</item>
+        <item>https://developer.apple.com/news/rss/news.rss</item>
+        <item>http://sxp.microsoft.com/feeds/3.0/msdntn?tags=msit%20AND%20Application%20Development</item>
+    </string-array>
+
+    <string name="rss_title_onliner_by">Onliner.by</string>
+    <string name="rss_title_belta_by">Belta.by</string>
+    <string name="rss_title_tut_by">Tut.by</string>
+    <string name="rss_title_archlinux_com">Archlinux.com</string>
+    <string name="rss_title_apple_com">Apple.com</string>
+    <string name="rss_title_microsoft_com">Microsoft.com</string>
+    <string name="rss_title_favorite_posts">Favorite posts</string>
+
+    <string name="head_arrowImage">head_arrowImage</string>
+    <string name="pull_to_refresh">Pull down to refresh…</string>
+    <string name="release_to_refresh">Release to refresh…</string>
+    <string name="loading">Loading…</string>
+
+    <string name="intro">Hello! This is RssReader. It is produced to you by Stanislau Daineko. Enjoy!</string>
+
+</resources>

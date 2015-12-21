@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Rss sources">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_onliner_by"
+                    android:icon="@drawable/ic_rss_onliner_by"
+                    android:title="@string/rss_title_onliner_by" />
+                <item
+                    android:id="@+id/nav_belta_by"
+                    android:icon="@drawable/ic_rss_belta_by"
+                    android:title="@string/rss_title_belta_by" />
+                <item
+                    android:id="@+id/nav_tut_by"
+                    android:icon="@drawable/ic_rss_tut_by"
+                    android:title="@string/rss_title_tut_by" />
+                <item
+                    android:id="@+id/nav_archlinux_com"
+                    android:icon="@drawable/ic_rss_archlinux_com"
+                    android:title="@string/rss_title_archlinux_com" />
+                <item
+                    android:id="@+id/nav_apple_com"
+                    android:icon="@drawable/ic_rss_apple_com"
+                    android:title="@string/rss_title_apple_com" />
+                <item
+                    android:id="@+id/nav_microsoft_com"
+                    android:icon="@drawable/ic_rss_microsoft_com"
+                    android:title="@string/rss_title_microsoft_com" />
+            </group>
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_favorite_posts"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/rss_title_favorite_posts">
+        </item>
+    </group>
+</menu>

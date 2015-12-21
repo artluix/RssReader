@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="postListView">false</item>
+    <item type="id" name="postThumb">false</item>
+    <item type="id" name="postTitleLabel">false</item>
+    <item type="id" name="postDateLabel">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="head_tipsTextView">false</item>
+    <item type="id" name="head_lastUpdatedDateTextView">false</item>
+    <item type="id" name="head_arrowImageView">false</item>
+    <item type="id" name="head_progressBar">false</item>
+</resources>
